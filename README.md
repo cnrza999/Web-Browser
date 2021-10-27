@@ -22,3 +22,14 @@ to the server asking for HTML of facebook login page to our computer. In some ca
 In the case that we need to secure the password from being seen by others. We use method POST request for transmitting data from web 
 browser in form of plain text to the server, then the server will save the data and submit the webpage back to our computer and
 also attached cookie accordingly. Cookie is like ID card number that server use for classify the identity of individual.  
+
+What is HTML ?
+
+Hyper Text Markup Language(HTML)คือ ภาษาที่ใช้ในการแสดงผลผ่าน web browser เช่น ข้อความ, รูปภาพ, วิดีโอ, ความหนาของข้อความ, การลิ้งไปที่เว็บเพจอื่น หลัก
+การในการโหลด html จากเซิฟเวอร์ คือจะโหลดข้อความมาก่อนแล้วค่อยโหลดรูปภาพหรือวีดีโอทีหลังโดยใช้ต่าง url โดยเซิฟเวอร์จะส่งผ่านข้อมูลมาเป็นไบนารี่ (0,1).
+
+What is HTML ?
+
+Hyper Text Markup Language(HTML) is the language that use for display the content through web browser such as message, images, video, link, ...
+Normally, in order to download html from the server there's sequence. The message will come first, after that the images and video comes after by 
+different URL. The data is send in form of binary (0,1). 
