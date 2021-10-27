@@ -13,6 +13,7 @@ method GET request ในการขอ HTML ของล็อกอินเ�
 เมื่อไหร่ที่เราล็อกอินเข้าไอดีทางเซิฟเวอร์จะส่งคุกกี้แนบมาด้วยโดยคุกกี้ก็เปรียบสเหมือนไอดีการ์ดของเราโดยเซิฟเวอร์จะจดจำเราได้ผ่านคุกกี้นี้.
 
 How does Web Browser work ?
+
 Web Browser is an application that access to world wide web (www) through Uniform Resource Locator(URL). When
 we enter URL and send it, the computer will send that URL to the server and after that server will send the data
 within that URL by HyperTextTransferProtocol(HTTP). HTTP is the language that use for communicate between web browser 
